@@ -1,0 +1,18 @@
+p {
+  color: aqua;
+  border: blue;
+  font-size: medium;
+  width: auto 4,52;
+}
+/*class*/
+.colores{
+    color: brown ;
+}
+/* class*/
+.hhhh{
+    color: burlywood;
+}
+/*id*/
+#texto{
+    color: chartreuse;
+}

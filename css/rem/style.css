@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  margin: 20px;
+  border: 1rem;
+  padding: 0px;
+}
+ html {
+  font-size: 62.5%;
+} 
+p {
+  font-size: 2.5rem;
+}
+.prueba{
+    font-size: 4.2rem;
+}
+input form {
+  border-radius: 1px;
+  border-color: blueviolet;
+}

@@ -1,0 +1,35 @@
+:root{
+ --primari-color: #005663;
+ --secundary-color:darkslategrey;
+ --fonttamaño-title:  5.1rem;
+ --letra: sans-serif;
+ --ancho:100vw;
+ --tamañomediano:25vw 30vh;
+}
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    width: var(--ancho);
+    height: 10vh;
+    background-color: var(--primari-color);
+}
+main{
+font-size: 20px;
+width: var(--ancho);
+height: 60vh;
+}
+h2{
+    /* font-family: sans-serif; */
+    font-family: var(--letra);
+    /* font-size: 3.4rem; */
+    font-size: var(--fonttamaño-title);
+   color: var(--secundary-color);
+}
+footer{
+    width: var(--ancho);
+    height: 20vh;
+    background-color: var(--secundary-color);
+}

@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: solid 6px blue;
+  padding: 1%;
+  border: rgb(245, 241, 6) 2px;
+}
+.page-header h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida San Unicode";
+  color: grey;
+  margin-bottom: 5px;
+  font: larger;
+}
+
+.title {
+  font: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.nav{
+
+}
+
+hr {
+  font: 15% red;
+}
+#main-nav li {
+  display: inline-block;
+  background-color: honeydew;
+}
+#main-nav li {
+  color: honeydew;
+  background-color: teal;
+  padding: 2%;
+  border-radius: 10px;
+  text-decoration: none;
+}
